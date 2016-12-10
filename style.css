@@ -1,0 +1,19 @@
+body {
+	background-color: aqua;
+}
+
+header {
+	width: 20em;
+	height: auto;
+	position: absolute;
+	top: 50%
+	text-align: center;
+}
+
+h1 {
+	font-size: 3rem;
+	font-weight: 700;
+	background-color: blue;
+	padding: 2em;
+	border: solid 2px black;
+}
