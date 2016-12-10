@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "My Protected Area"
+AuthUserFile /
+/torbensphotos.com/.htpasswd
+Require valid-user
